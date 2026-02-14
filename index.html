@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>미니 마리오 클론</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="hud">
+      <div>코인: <span id="coins">0</span></div>
+      <div>목숨: <span id="lives">3</span></div>
+      <div>상태: <span id="status">플레이 중</span></div>
+      <button id="restart">재시작</button>
+    </div>
+    <canvas id="game" width="960" height="540"></canvas>
+    <p class="help">← → 이동 / Space 점프 / 적을 밟아 처치 / 깃발에 닿으면 클리어</p>
+    <script src="game.js"></script>
+  </body>
+</html>
