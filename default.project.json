@@ -1,0 +1,35 @@
+{
+  "name": "obby",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "Obby": {
+        "$path": "map/Obby.model.json"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "ObbyServer": {
+        "$path": "src/server/ObbyServer.server.luau"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "ObbyClient": {
+          "$path": "src/client/ObbyClient.client.luau"
+        }
+      }
+    },
+    "Lighting": {
+      "$className": "Lighting",
+      "$properties": {
+        "ClockTime": 14,
+        "Brightness": 2,
+        "GlobalShadows": false
+      }
+    }
+  }
+}

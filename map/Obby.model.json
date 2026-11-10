@@ -1,0 +1,4669 @@
+{
+ "ClassName": "Folder",
+ "Children": [
+  {
+   "Name": "Platforms",
+   "ClassName": "Folder",
+   "Children": [
+    {
+     "Name": "StartBase",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       24,
+       2,
+       24
+      ],
+      "CFrame": [
+       0,
+       10,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform1",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       8
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       20.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.36,
+       0.78,
+       0.4
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform2",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       7
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       31.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.36,
+       0.78,
+       0.4
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform3",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       7,
+       1.5,
+       6
+      ],
+      "CFrame": [
+       3.0,
+       10.25,
+       43.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.36,
+       0.78,
+       0.4
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform4",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       7,
+       1.5,
+       6
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       54.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.36,
+       0.78,
+       0.4
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform5",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       -3.0,
+       10.25,
+       65.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.36,
+       0.78,
+       0.4
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform6",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       75.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.36,
+       0.78,
+       0.4
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform7",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       3.0,
+       10.25,
+       86.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.36,
+       0.78,
+       0.4
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform8",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       97.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.36,
+       0.78,
+       0.4
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "CheckpointBase9",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       16,
+       1.5,
+       16
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       112.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Stone10",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       4,
+       2,
+       4
+      ],
+      "CFrame": [
+       0.0,
+       10.0,
+       127.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "Slate",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Stone11",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       4,
+       2,
+       4
+      ],
+      "CFrame": [
+       -3.0,
+       10.0,
+       135.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "Slate",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Stone12",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       4,
+       2,
+       4
+      ],
+      "CFrame": [
+       0.0,
+       10.0,
+       142.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "Slate",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Stone13",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       4,
+       2,
+       4
+      ],
+      "CFrame": [
+       3.0,
+       10.0,
+       150.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "Slate",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Stone14",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       4,
+       2,
+       4
+      ],
+      "CFrame": [
+       0.0,
+       10.0,
+       157.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "Slate",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Stone15",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       4,
+       2,
+       4
+      ],
+      "CFrame": [
+       -3.0,
+       10.0,
+       165.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "Slate",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Stone16",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       4,
+       2,
+       4
+      ],
+      "CFrame": [
+       0.0,
+       10.0,
+       172.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "Slate",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Stone17",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       4,
+       2,
+       4
+      ],
+      "CFrame": [
+       0.0,
+       10.0,
+       180.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "Slate",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform18",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       6
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       189.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Beam19",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       1.6,
+       1.5,
+       22
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       203.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform20",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       217.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Beam21",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       1.4,
+       1.5,
+       22
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       230.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "CheckpointBase22",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       16,
+       1.5,
+       16
+      ],
+      "CFrame": [
+       0.0,
+       10.25,
+       249.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform23",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       4.0,
+       13.25,
+       264.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform24",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       16.25,
+       273.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform25",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       4.0,
+       19.25,
+       282.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform26",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       22.25,
+       291.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform27",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       4.0,
+       25.25,
+       300.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform28",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       28.25,
+       309.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform29",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       4.0,
+       31.25,
+       318.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform30",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       34.25,
+       327.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform31",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       4.0,
+       37.25,
+       336.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform32",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       40.25,
+       345.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform33",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       1.5,
+       10
+      ],
+      "CFrame": [
+       0.0,
+       40.25,
+       356.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Ladder",
+     "ClassName": "TrussPart",
+     "Properties": {
+      "Size": [
+       2,
+       18,
+       2
+      ],
+      "CFrame": [
+       0.0,
+       50.0,
+       360.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.8,
+       0.2
+      ],
+      "Material": "Metal",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform34",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       1.5,
+       10
+      ],
+      "CFrame": [
+       0.0,
+       58.25,
+       366.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "CheckpointBase35",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       16,
+       1.5,
+       16
+      ],
+      "CFrame": [
+       0.0,
+       58.25,
+       384.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform36",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       6
+      ],
+      "CFrame": [
+       0.0,
+       58.25,
+       400.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.62,
+       0.42,
+       0.92
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform37",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       8
+      ],
+      "CFrame": [
+       0.0,
+       58.25,
+       431.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.62,
+       0.42,
+       0.92
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform38",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       1.5,
+       6
+      ],
+      "CFrame": [
+       -8.0,
+       58.25,
+       442.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.62,
+       0.42,
+       0.92
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform39",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       1.5,
+       6
+      ],
+      "CFrame": [
+       8.0,
+       58.25,
+       462.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.62,
+       0.42,
+       0.92
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform40",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       8
+      ],
+      "CFrame": [
+       8.0,
+       72.25,
+       481.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.62,
+       0.42,
+       0.92
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "CheckpointBase41",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       16,
+       1.5,
+       16
+      ],
+      "CFrame": [
+       0.0,
+       72.25,
+       515.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform42",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       1.5,
+       66
+      ],
+      "CFrame": [
+       0.0,
+       72.25,
+       560.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.2,
+       0.75,
+       0.72
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SpinnerHub",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       2,
+       3,
+       2
+      ],
+      "CFrame": [
+       0.0,
+       74.5,
+       540.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "Metal",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SpinnerHub",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       2,
+       3,
+       2
+      ],
+      "CFrame": [
+       0.0,
+       74.5,
+       560.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "Metal",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SpinnerHub",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       2,
+       3,
+       2
+      ],
+      "CFrame": [
+       0.0,
+       74.5,
+       580.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "Metal",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "CheckpointBase50",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       16,
+       1.5,
+       16
+      ],
+      "CFrame": [
+       0.0,
+       72.25,
+       669.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform51",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       50
+      ],
+      "CFrame": [
+       0.0,
+       72.25,
+       706.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform52",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       3.5,
+       1.5,
+       3.5
+      ],
+      "CFrame": [
+       3.0,
+       74.75,
+       738.25,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform53",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       3.5,
+       1.5,
+       3.5
+      ],
+      "CFrame": [
+       0.0,
+       77.25,
+       746.75,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform54",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       3.5,
+       1.5,
+       3.5
+      ],
+      "CFrame": [
+       3.0,
+       79.75,
+       755.25,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform55",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       3.5,
+       1.5,
+       3.5
+      ],
+      "CFrame": [
+       0.0,
+       82.25,
+       763.75,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform56",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       3.5,
+       1.5,
+       3.5
+      ],
+      "CFrame": [
+       3.0,
+       84.75,
+       772.25,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform57",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       3.5,
+       1.5,
+       3.5
+      ],
+      "CFrame": [
+       0.0,
+       87.25,
+       780.75,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Platform58",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       8
+      ],
+      "CFrame": [
+       0.0,
+       87.25,
+       790.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SpinnerHubFinal",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       2,
+       10,
+       2
+      ],
+      "CFrame": [
+       7.0,
+       85.0,
+       807.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "Metal",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "CheckpointBase59",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       16,
+       1.5,
+       16
+      ],
+      "CFrame": [
+       0.0,
+       87.25,
+       827.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "RestartBase",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       8
+      ],
+      "CFrame": [
+       -9.0,
+       87.25,
+       839.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Spawn",
+   "ClassName": "Folder",
+   "Children": [
+    {
+     "Name": "SpawnLocation",
+     "ClassName": "SpawnLocation",
+     "Properties": {
+      "Size": [
+       8,
+       1,
+       8
+      ],
+      "CFrame": [
+       0,
+       11.5,
+       -4,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Duration": 0
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Signs",
+   "ClassName": "Folder",
+   "Children": [
+    {
+     "Name": "StartSign",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       14,
+       5,
+       0.5
+      ],
+      "CFrame": [
+       0,
+       20,
+       11.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     },
+     "Children": [
+      {
+       "Name": "SurfaceGui",
+       "ClassName": "SurfaceGui",
+       "Properties": {
+        "Face": "Front",
+        "CanvasSize": [
+         800,
+         400
+        ]
+       },
+       "Children": [
+        {
+         "Name": "Label",
+         "ClassName": "TextLabel",
+         "Properties": {
+          "Size": {
+           "UDim2": [
+            [
+             1,
+             0
+            ],
+            [
+             1,
+             0
+            ]
+           ]
+          },
+          "BackgroundTransparency": 1,
+          "Text": "점프맵 시작!  →  앞으로",
+          "TextScaled": true,
+          "TextColor3": [
+           1.0,
+           0.8,
+           0.2
+          ],
+          "Font": "GothamBold"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       6.5,
+       0.6
+      ],
+      "CFrame": [
+       -6,
+       14.25,
+       11.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       6.5,
+       0.6
+      ],
+      "CFrame": [
+       6,
+       14.25,
+       11.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       9.0,
+       14.5,
+       112.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       15.0,
+       14.5,
+       112.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Sign1",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       9,
+       4,
+       0.5
+      ],
+      "CFrame": [
+       12.0,
+       19.0,
+       112.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     },
+     "Children": [
+      {
+       "Name": "SurfaceGui",
+       "ClassName": "SurfaceGui",
+       "Properties": {
+        "Face": "Front",
+        "CanvasSize": [
+         800,
+         400
+        ]
+       },
+       "Children": [
+        {
+         "Name": "Label",
+         "ClassName": "TextLabel",
+         "Properties": {
+          "Size": {
+           "UDim2": [
+            [
+             1,
+             0
+            ],
+            [
+             1,
+             0
+            ]
+           ]
+          },
+          "BackgroundTransparency": 1,
+          "Text": "STAGE 2\n용암 징검다리",
+          "TextScaled": true,
+          "TextColor3": [
+           1.0,
+           0.3,
+           0.05
+          ],
+          "Font": "GothamBold"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "Name": "SignBase",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       4
+      ],
+      "CFrame": [
+       12.0,
+       10.25,
+       112.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       9.0,
+       14.5,
+       249.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       15.0,
+       14.5,
+       249.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Sign2",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       9,
+       4,
+       0.5
+      ],
+      "CFrame": [
+       12.0,
+       19.0,
+       249.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     },
+     "Children": [
+      {
+       "Name": "SurfaceGui",
+       "ClassName": "SurfaceGui",
+       "Properties": {
+        "Face": "Front",
+        "CanvasSize": [
+         800,
+         400
+        ]
+       },
+       "Children": [
+        {
+         "Name": "Label",
+         "ClassName": "TextLabel",
+         "Properties": {
+          "Size": {
+           "UDim2": [
+            [
+             1,
+             0
+            ],
+            [
+             1,
+             0
+            ]
+           ]
+          },
+          "BackgroundTransparency": 1,
+          "Text": "STAGE 3\n하늘 계단",
+          "TextScaled": true,
+          "TextColor3": [
+           0.3,
+           0.55,
+           0.95
+          ],
+          "Font": "GothamBold"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "Name": "SignBase",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       4
+      ],
+      "CFrame": [
+       12.0,
+       10.25,
+       249.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       9.0,
+       62.5,
+       384.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       15.0,
+       62.5,
+       384.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Sign3",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       9,
+       4,
+       0.5
+      ],
+      "CFrame": [
+       12.0,
+       67.0,
+       384.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     },
+     "Children": [
+      {
+       "Name": "SurfaceGui",
+       "ClassName": "SurfaceGui",
+       "Properties": {
+        "Face": "Front",
+        "CanvasSize": [
+         800,
+         400
+        ]
+       },
+       "Children": [
+        {
+         "Name": "Label",
+         "ClassName": "TextLabel",
+         "Properties": {
+          "Size": {
+           "UDim2": [
+            [
+             1,
+             0
+            ],
+            [
+             1,
+             0
+            ]
+           ]
+          },
+          "BackgroundTransparency": 1,
+          "Text": "STAGE 4\n움직이는 발판",
+          "TextScaled": true,
+          "TextColor3": [
+           0.62,
+           0.42,
+           0.92
+          ],
+          "Font": "GothamBold"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "Name": "SignBase",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       4
+      ],
+      "CFrame": [
+       12.0,
+       58.25,
+       384.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       9.0,
+       76.5,
+       515.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       15.0,
+       76.5,
+       515.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Sign4",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       9,
+       4,
+       0.5
+      ],
+      "CFrame": [
+       12.0,
+       81.0,
+       515.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     },
+     "Children": [
+      {
+       "Name": "SurfaceGui",
+       "ClassName": "SurfaceGui",
+       "Properties": {
+        "Face": "Front",
+        "CanvasSize": [
+         800,
+         400
+        ]
+       },
+       "Children": [
+        {
+         "Name": "Label",
+         "ClassName": "TextLabel",
+         "Properties": {
+          "Size": {
+           "UDim2": [
+            [
+             1,
+             0
+            ],
+            [
+             1,
+             0
+            ]
+           ]
+          },
+          "BackgroundTransparency": 1,
+          "Text": "STAGE 5\n회전 막대",
+          "TextScaled": true,
+          "TextColor3": [
+           0.2,
+           0.75,
+           0.72
+          ],
+          "Font": "GothamBold"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "Name": "SignBase",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       4
+      ],
+      "CFrame": [
+       12.0,
+       72.25,
+       515.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       9.0,
+       76.5,
+       669.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       15.0,
+       76.5,
+       669.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Sign5",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       9,
+       4,
+       0.5
+      ],
+      "CFrame": [
+       12.0,
+       81.0,
+       669.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     },
+     "Children": [
+      {
+       "Name": "SurfaceGui",
+       "ClassName": "SurfaceGui",
+       "Properties": {
+        "Face": "Front",
+        "CanvasSize": [
+         800,
+         400
+        ]
+       },
+       "Children": [
+        {
+         "Name": "Label",
+         "ClassName": "TextLabel",
+         "Properties": {
+          "Size": {
+           "UDim2": [
+            [
+             1,
+             0
+            ],
+            [
+             1,
+             0
+            ]
+           ]
+          },
+          "BackgroundTransparency": 1,
+          "Text": "STAGE 6\n마지막 관문",
+          "TextScaled": true,
+          "TextColor3": [
+           0.95,
+           0.45,
+           0.7
+          ],
+          "Font": "GothamBold"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "Name": "SignBase",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       4
+      ],
+      "CFrame": [
+       12.0,
+       72.25,
+       669.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       9.0,
+       91.5,
+       827.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "SignPost",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       0.6,
+       7,
+       0.6
+      ],
+      "CFrame": [
+       15.0,
+       91.5,
+       827.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "Sign6",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       9,
+       4,
+       0.5
+      ],
+      "CFrame": [
+       12.0,
+       96.0,
+       827.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     },
+     "Children": [
+      {
+       "Name": "SurfaceGui",
+       "ClassName": "SurfaceGui",
+       "Properties": {
+        "Face": "Front",
+        "CanvasSize": [
+         800,
+         400
+        ]
+       },
+       "Children": [
+        {
+         "Name": "Label",
+         "ClassName": "TextLabel",
+         "Properties": {
+          "Size": {
+           "UDim2": [
+            [
+             1,
+             0
+            ],
+            [
+             1,
+             0
+            ]
+           ]
+          },
+          "BackgroundTransparency": 1,
+          "Text": "완주! 축하합니다",
+          "TextScaled": true,
+          "TextColor3": [
+           1.0,
+           0.8,
+           0.2
+          ],
+          "Font": "GothamBold"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "Name": "SignBase",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       1.5,
+       4
+      ],
+      "CFrame": [
+       12.0,
+       87.25,
+       827.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.45,
+       0.47,
+       0.52
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     }
+    },
+    {
+     "Name": "RestartSign",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       2.5,
+       0.5
+      ],
+      "CFrame": [
+       -9.0,
+       93.0,
+       843.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.15,
+       0.16,
+       0.2
+      ],
+      "Material": "SmoothPlastic",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth"
+     },
+     "Children": [
+      {
+       "Name": "SurfaceGui",
+       "ClassName": "SurfaceGui",
+       "Properties": {
+        "Face": "Front",
+        "CanvasSize": [
+         800,
+         400
+        ]
+       },
+       "Children": [
+        {
+         "Name": "Label",
+         "ClassName": "TextLabel",
+         "Properties": {
+          "Size": {
+           "UDim2": [
+            [
+             1,
+             0
+            ],
+            [
+             1,
+             0
+            ]
+           ]
+          },
+          "BackgroundTransparency": 1,
+          "Text": "처음부터 다시",
+          "TextScaled": true,
+          "TextColor3": [
+           0.95,
+           0.95,
+           0.95
+          ],
+          "Font": "GothamBold"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Name": "Checkpoints",
+   "ClassName": "Folder",
+   "Children": [
+    {
+     "Name": "Checkpoint1",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       0.4,
+       10
+      ],
+      "CFrame": [
+       0.0,
+       11.2,
+       112.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Checkpoint"
+      ],
+      "Attributes": {
+       "Stage": {
+        "Float64": 1.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "Checkpoint2",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       0.4,
+       10
+      ],
+      "CFrame": [
+       0.0,
+       11.2,
+       249.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.3,
+       0.55,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Checkpoint"
+      ],
+      "Attributes": {
+       "Stage": {
+        "Float64": 2.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "Checkpoint3",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       0.4,
+       10
+      ],
+      "CFrame": [
+       0.0,
+       59.2,
+       384.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.62,
+       0.42,
+       0.92
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Checkpoint"
+      ],
+      "Attributes": {
+       "Stage": {
+        "Float64": 3.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "Checkpoint4",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       0.4,
+       10
+      ],
+      "CFrame": [
+       0.0,
+       73.2,
+       515.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.2,
+       0.75,
+       0.72
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Checkpoint"
+      ],
+      "Attributes": {
+       "Stage": {
+        "Float64": 4.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "Checkpoint5",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       0.4,
+       10
+      ],
+      "CFrame": [
+       0.0,
+       73.2,
+       669.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.45,
+       0.7
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Checkpoint"
+      ],
+      "Attributes": {
+       "Stage": {
+        "Float64": 5.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "Checkpoint6",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       10,
+       0.4,
+       10
+      ],
+      "CFrame": [
+       0.0,
+       88.2,
+       827.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.8,
+       0.2
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Checkpoint",
+       "Finish"
+      ],
+      "Attributes": {
+       "Stage": {
+        "Float64": 6.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "RestartPad",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       0.4,
+       5
+      ],
+      "CFrame": [
+       -9.0,
+       88.2,
+       839.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Restart"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "Name": "KillBricks",
+   "ClassName": "Folder",
+   "Children": [
+    {
+     "Name": "LavaFloor",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       14,
+       1,
+       62
+      ],
+      "CFrame": [
+       0.0,
+       9.5,
+       154.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "KillBrick"
+      ]
+     }
+    },
+    {
+     "Name": "LavaStrip1",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       0.6,
+       3
+      ],
+      "CFrame": [
+       0.0,
+       73.3,
+       689.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "KillBrick"
+      ]
+     }
+    },
+    {
+     "Name": "LavaStrip2",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       0.6,
+       3
+      ],
+      "CFrame": [
+       0.0,
+       73.3,
+       698.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "KillBrick"
+      ]
+     }
+    },
+    {
+     "Name": "LavaStrip3",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       0.6,
+       3
+      ],
+      "CFrame": [
+       0.0,
+       73.3,
+       707.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "KillBrick"
+      ]
+     }
+    },
+    {
+     "Name": "LavaStrip4",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       0.6,
+       3
+      ],
+      "CFrame": [
+       0.0,
+       73.3,
+       716.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "KillBrick"
+      ]
+     }
+    },
+    {
+     "Name": "LavaStrip5",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       8,
+       0.6,
+       3
+      ],
+      "CFrame": [
+       0.0,
+       73.3,
+       725.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "KillBrick"
+      ]
+     }
+    },
+    {
+     "Name": "LavaSea",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       500,
+       2,
+       1015.5
+      ],
+      "CFrame": [
+       0,
+       -30,
+       417.75,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "CrackedLava",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "KillBrick"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Movers",
+   "ClassName": "Folder",
+   "Children": [
+    {
+     "Name": "MoverA",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       1,
+       6
+      ],
+      "CFrame": [
+       0.0,
+       58.5,
+       408.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Mover"
+      ],
+      "Attributes": {
+       "MoveOffset": {
+        "Vector3": [
+         0.0,
+         0.0,
+         14.0
+        ]
+       },
+       "Period": {
+        "Float64": 6.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "MoverB",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       1,
+       6
+      ],
+      "CFrame": [
+       -8.0,
+       58.5,
+       452.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Mover"
+      ],
+      "Attributes": {
+       "MoveOffset": {
+        "Vector3": [
+         16.0,
+         0.0,
+         0.0
+        ]
+       },
+       "Period": {
+        "Float64": 5.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "MoverC",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       6,
+       1,
+       6
+      ],
+      "CFrame": [
+       8.0,
+       58.5,
+       471.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Mover"
+      ],
+      "Attributes": {
+       "MoveOffset": {
+        "Vector3": [
+         0.0,
+         14.0,
+         0.0
+        ]
+       },
+       "Period": {
+        "Float64": 7.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "MoverD1",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1,
+       5
+      ],
+      "CFrame": [
+       2.0,
+       72.5,
+       492.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Mover"
+      ],
+      "Attributes": {
+       "MoveOffset": {
+        "Vector3": [
+         12.0,
+         0.0,
+         0.0
+        ]
+       },
+       "Period": {
+        "Float64": 4.5
+       },
+       "Phase": {
+        "Float64": 0.0
+       }
+      }
+     }
+    },
+    {
+     "Name": "MoverD2",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1,
+       5
+      ],
+      "CFrame": [
+       2.0,
+       72.5,
+       501.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Mover"
+      ],
+      "Attributes": {
+       "MoveOffset": {
+        "Vector3": [
+         12.0,
+         0.0,
+         0.0
+        ]
+       },
+       "Period": {
+        "Float64": 4.5
+       },
+       "Phase": {
+        "Float64": 3.14159
+       }
+      }
+     }
+    },
+    {
+     "Name": "MoverE",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       87.5,
+       799.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Mover"
+      ],
+      "Attributes": {
+       "MoveOffset": {
+        "Vector3": [
+         0.0,
+         0.0,
+         16.0
+        ]
+       },
+       "Period": {
+        "Float64": 7.0
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Spinners",
+   "ClassName": "Folder",
+   "Children": [
+    {
+     "Name": "Spinner1",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       20,
+       1.2,
+       1.2
+      ],
+      "CFrame": [
+       0.0,
+       74.3,
+       540.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Spinner",
+       "KillBrick"
+      ],
+      "Attributes": {
+       "SpinSpeed": {
+        "Float64": 1.4
+       }
+      }
+     }
+    },
+    {
+     "Name": "Spinner2",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       20,
+       1.2,
+       1.2
+      ],
+      "CFrame": [
+       0.0,
+       74.3,
+       560.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Spinner",
+       "KillBrick"
+      ],
+      "Attributes": {
+       "SpinSpeed": {
+        "Float64": -1.9
+       }
+      }
+     }
+    },
+    {
+     "Name": "Spinner3",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       20,
+       1.2,
+       1.2
+      ],
+      "CFrame": [
+       0.0,
+       74.3,
+       580.5,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Spinner",
+       "KillBrick"
+      ],
+      "Attributes": {
+       "SpinSpeed": {
+        "Float64": 2.4
+       }
+      }
+     }
+    },
+    {
+     "Name": "SpinnerFinal",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       22,
+       1.2,
+       1.2
+      ],
+      "CFrame": [
+       7.0,
+       89.3,
+       807.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       1.0,
+       0.3,
+       0.05
+      ],
+      "Material": "Neon",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Tags": [
+       "Spinner",
+       "KillBrick"
+      ],
+      "Attributes": {
+       "SpinSpeed": {
+        "Float64": 0.9
+       }
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Vanishing",
+   "ClassName": "Folder",
+   "Children": [
+    {
+     "Name": "Vanish43",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       3.0,
+       72.25,
+       600.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Glass",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Transparency": 0.25,
+      "Tags": [
+       "Vanish"
+      ]
+     }
+    },
+    {
+     "Name": "Vanish44",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       72.25,
+       609.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Glass",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Transparency": 0.25,
+      "Tags": [
+       "Vanish"
+      ]
+     }
+    },
+    {
+     "Name": "Vanish45",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       -3.0,
+       72.25,
+       618.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Glass",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Transparency": 0.25,
+      "Tags": [
+       "Vanish"
+      ]
+     }
+    },
+    {
+     "Name": "Vanish46",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       72.25,
+       627.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Glass",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Transparency": 0.25,
+      "Tags": [
+       "Vanish"
+      ]
+     }
+    },
+    {
+     "Name": "Vanish47",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       3.0,
+       72.25,
+       636.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Glass",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Transparency": 0.25,
+      "Tags": [
+       "Vanish"
+      ]
+     }
+    },
+    {
+     "Name": "Vanish48",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       72.25,
+       645.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Glass",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Transparency": 0.25,
+      "Tags": [
+       "Vanish"
+      ]
+     }
+    },
+    {
+     "Name": "Vanish49",
+     "ClassName": "Part",
+     "Properties": {
+      "Size": [
+       5,
+       1.5,
+       5
+      ],
+      "CFrame": [
+       0.0,
+       72.25,
+       654.0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ],
+      "Anchored": true,
+      "Color": [
+       0.95,
+       0.95,
+       0.95
+      ],
+      "Material": "Glass",
+      "TopSurface": "Smooth",
+      "BottomSurface": "Smooth",
+      "Transparency": 0.25,
+      "Tags": [
+       "Vanish"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
