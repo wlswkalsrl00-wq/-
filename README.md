@@ -39,3 +39,7 @@
 python3 tools/generate_map.py
 rojo build -o obby.rbxlx
 ```
+
+## 외부 공개 맵
+
+`third_party/christmas-obby/`에 다른 제작자가 MIT 라이선스로 공개한 200단계 점프맵이 들어 있습니다. 자세한 내용은 그 폴더의 README를 참고하세요.
